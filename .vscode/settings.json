@@ -1,0 +1,6 @@
+{
+    "files.defaultLanguage": "chordpro",
+    "files.associations": {
+        "*.txt": "chordpro"
+    }
+}

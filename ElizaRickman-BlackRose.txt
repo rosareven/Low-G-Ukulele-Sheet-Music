@@ -1,0 +1,51 @@
+{title:Black Rose}
+{subtitle:Eliza Rickman}
+{key:Bm}
+{comment: Low G Ukulele Capo 2}
+
+[Am] x8
+{start_of_verse: Verse 1}
+Cry, baby, cry
+Over my garden
+You [Dm]know you [F]grow your [Am]own
+Lay, lady, lay
+Under my bed
+You [Dm]know I'll [F]grow my [Am]own
+
+{start_of_chorus}
+[Gm]Don't let him know
+[F]Don't let it [Am]show
+[Gm]You reap what you sow
+[F]Take this black [Am]rose
+{end_of_chorus}
+
+{start_of_verse: Verse 2}
+Stay, lady, stay
+Cross my back door
+You [Dm]know you [F]grow your [Am]own
+Pray, baby, pray
+Over our sins
+And [Dm]oh, we'll [F]grow our [Am]own
+
+{start_of_chorus}
+[Gm]Don't let him know
+[F]Don't let it [Am]show
+[Gm]You reap what you sow
+[F]Take this black [Am]rose
+{end_of_chorus}
+
+{start_of_verse: Verse 3}
+Pull, baby, pull
+Plant your good deeds
+And [Dm]oh, you [F]grow your [Am]own
+And crawl, baby, crawl
+And fall on your knees
+And [Dm]oh, I'll [F]grow my [Am]own
+
+{start_of_chorus}
+[Gm]Don't let him know
+[F]Don't let it [Am]show
+[Gm]You reap what you sow
+[F]Take this black [Am]rose
+[F]My black [Am]rose
+{end_of_chorus}
